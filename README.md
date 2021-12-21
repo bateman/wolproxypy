@@ -7,6 +7,11 @@ An all-in-one proxy solution (CLI, API, web app) for sending Wake-on-LAN packets
 
 `git clone https://github.com/bateman/wolproxypy`
 
+## Configuration
+
+Create the `.env` file from the supplied template: `cp .env-template .env`
+Edit the `.env` file and provide the requested information.
+
 ### Run
 
 `docker-compose up [-d] [--force-recreate]`
