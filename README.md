@@ -9,8 +9,8 @@ An all-in-one proxy solution (CLI, API, web app) for sending Wake-on-LAN packets
 
 ## Configuration
 
-Create the `.env` file from the supplied template: `cp .env-template .env`
-Edit the `.env` file and provide the requested information.
+- Create the `.env` file from the supplied template: `cp .env-template .env`
+- Edit the `.env` file and provide the requested information.
 
 ### Run
 
